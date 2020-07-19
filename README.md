@@ -1,4 +1,4 @@
-### My Info
+### About Me
 Name: Diogo Cardoso
 
 Email: diogo.j.cardoso@gmail.com
